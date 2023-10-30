@@ -1,0 +1,14 @@
+.board-row {
+  display: flex;
+  height: 100px;
+  width: 300px;
+  margin: 0;
+}
+
+.square {
+  display: block;
+  height: 100%;
+  width: 33.33%;
+  font-size: 84px;
+  font-weight: bold;
+}
